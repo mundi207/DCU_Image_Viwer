@@ -1,4 +1,4 @@
-package com.example.fineltest;
+package DCU_Image_Viwer.example.fineltest;
 
 import android.Manifest;
 import android.content.Context;
@@ -20,6 +20,8 @@ import androidx.core.app.ActivityCompat;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import com.example.fineltest.R;
 
 import java.io.File;
 import java.util.ArrayList;

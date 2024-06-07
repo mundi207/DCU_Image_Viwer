@@ -1,4 +1,4 @@
-package com.example.fineltest;
+package DCU_Image_Viwer.example.fineltest;
 
 import org.junit.Test;
 

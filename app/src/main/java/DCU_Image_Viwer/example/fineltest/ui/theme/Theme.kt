@@ -1,4 +1,4 @@
-package com.example.fineltest.ui.theme
+package DCU_Image_Viwer.example.fineltest.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
