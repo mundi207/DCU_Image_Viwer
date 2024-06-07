@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "FinelTest"
+rootProject.name = "DCU_Image_Viwer"
 include(":app")
  
